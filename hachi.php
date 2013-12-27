@@ -1,9 +1,8 @@
-
 <html>
 <head>
 <meta name="robots" content="noindex" />
 <title>Import Gmail or Google contacts using Google Contacts Data API and OAuth 2.0</title>
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 	<div class="well" >
