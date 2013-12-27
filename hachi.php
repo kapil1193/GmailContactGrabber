@@ -11,8 +11,8 @@
 	</div>
 	
 <?php
-$client_id='6##########.apps.googleusercontent.com'; // your client id
-$client_secret='#####################'; //your secret key here
+$client_id='679038716016-p1ul78oh1jo72rf72um1kshrb5tp8159.apps.googleusercontent.com';
+$client_secret='hagqxqD7yqB2ejxP8z3iu4Ka';
 $redirect_uri='http://localhost/hachi/hachi.php';
 $max_results = 40;
  
